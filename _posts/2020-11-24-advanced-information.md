@@ -825,6 +825,6 @@ _someErrorHappenedAlert();
 <aside class="special">
   <p><strong>Note: If everything be done accuretely, the complex login process with Huawei ID and email will be shown as done below:</strong></p>
 </aside>
-<br><img style="width: 400.00px" src="https://github.com/Onurcan-Keskin/onurcan-keskin.github.io/blob/gh-pages/assets/s3.jpg?raw=true" onclick="imageclick(src)">
+<br><img style="width: 400.00px" src="https://github.com/Onurcan-Keskin/onurcan-keskin.github.io/blob/master/assets/s3.jpg?raw=true" onclick="imageclick(src)">
 
 </ol>

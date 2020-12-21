@@ -10,8 +10,8 @@ description: 2
 	<li>Select either simple build or complex build.</li>
 	<li>Complete the sign in processes.</li>
 </ol>
-<img style="width: 220.00px" src="https://github.com/Onurcan-Keskin/onurcan-keskin.github.io/blob/gh-pages/assets/s1.jpg?raw=true" onclick="imageclick(src)">
-<img style="width: 220.00px" src="https://github.com/Onurcan-Keskin/onurcan-keskin.github.io/blob/gh-pages/assets/s2.jpg?raw=true" onclick="imageclick(src)">
-<img style="width: 220.00px" src="https://github.com/Onurcan-Keskin/onurcan-keskin.github.io/blob/gh-pages/assets/s3.jpg?raw=true" onclick="imageclick(src)">
-<img style="width: 220.00px" src="https://github.com/Onurcan-Keskin/onurcan-keskin.github.io/blob/gh-pages/assets/s4.jpg?raw=true" onclick="imageclick(src)">
+<img style="width: 220.00px" src="https://github.com/Onurcan-Keskin/onurcan-keskin.github.io/blob/master/assets/s1.jpg?raw=true" onclick="imageclick(src)">
+<img style="width: 220.00px" src="https://github.com/Onurcan-Keskin/onurcan-keskin.github.io/blob/master/assets/s2.jpg?raw=true" onclick="imageclick(src)">
+<img style="width: 220.00px" src="https://github.com/Onurcan-Keskin/onurcan-keskin.github.io/blob/master/assets/s3.jpg?raw=true" onclick="imageclick(src)">
+<img style="width: 220.00px" src="https://github.com/Onurcan-Keskin/onurcan-keskin.github.io/blob/master/assets/s4.jpg?raw=true" onclick="imageclick(src)">
 
